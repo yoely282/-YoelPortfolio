@@ -51,8 +51,7 @@
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <a href="https://www.coursera.org/account/accomplishments/specialization/U6KTCFQZ4RFU"><img src="https://img.shields.io/badge/-IBM-054ADA?style=for-the-badge&logo=IBM&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://www.coursera.org/account/accomplishments/specialization/8MK49DVFDKJS"><img src="https://img.shields.io/badge/-Google-DB4437?style=for-the-badge&logo=Google&logoColor=white" /></a>
 </div>
 
 ## Projects
