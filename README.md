@@ -48,7 +48,7 @@
 
 <div>
 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-4b316468-13a5-418a-aa45-9426b2caef3f.pdf"> <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.linkedin.com/learning/certificates/ea1571805edd716deb3c029aaf1a4c92ea573d0d018c3756069a6fb5bbe29bc0?u=75089194"> <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <a href="https://www.coursera.org/account/accomplishments/specialization/U6KTCFQZ4RFU"><img src="https://img.shields.io/badge/-IBM-054ADA?style=for-the-badge&logo=IBM&logoColor=white" /></a>
 <a href="https://www.coursera.org/account/accomplishments/specialization/8MK49DVFDKJS"><img src="https://img.shields.io/badge/-Google-DB4437?style=for-the-badge&logo=Google&logoColor=white" /></a>
 </div>
