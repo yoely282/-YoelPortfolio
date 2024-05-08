@@ -1,4 +1,8 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Yoel Yoel!
+🔍 I'm currently seeking a challenging position in cybersecurity and Management Information Systems (MIS) where I can leverage my extensive skills in information systems and project management. My goal is to significantly enhance organizational security measures and contribute to the overall safety and efficiency of operations.
+👨‍💻 With a focus on bridging the gap between technology and business needs, I am dedicated to ensuring that security practices are seamlessly integrated into all facets of business operations. This role aligns perfectly with my career objectives and my passion for creating safe and robust digital environments.
+🌐 Connect with me to discuss how we can work together to achieve new heights in cybersecurity and information systems management!
+
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
