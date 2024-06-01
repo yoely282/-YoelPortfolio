@@ -55,4 +55,4 @@
 
 ## Projects
 - Detection Lab
-- SOC Automation Project 
+- SOC Training  
