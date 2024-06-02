@@ -14,11 +14,11 @@
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href= "https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-3DXKF2ROQF.png ">TryHackMe SOC LEVEL 1 </a>|
-| Network Security and Traffic Analysis         | <a href="[https://google.com](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-3DXKF2ROQF.png)">TryHackMe SOC LEVEL 1</a>|
-| Threat and Vulnerability Management           | <a href="[https://google.com](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1CYOMEOEYF.png)">TryHackMe Cyber Defense</a>|
-| Digital Forensics and Incident Response       | <a href="[https://google.com](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-3DXKF2ROQF.png)">TryHackMe SOC LEVEL 1</a>|
-| Security Operations and Monitoring            | <a href="[https://google.com](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1CYOMEOEYF.png)">TryHackMe Cyber Defense</a>|
-| Malware Analysis and Reverse Engineering      | <a href="[https://google.com](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1CYOMEOEYF.png)">TryHackMe Cyber Defense</a>|
+| Network Security and Traffic Analysis         | <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-3DXKF2ROQF.png">TryHackMe SOC LEVEL 1</a>|
+| Threat and Vulnerability Management           | <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1CYOMEOEYF.png">TryHackMe Cyber Defense</a>|
+| Digital Forensics and Incident Response       | <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-3DXKF2ROQF.png">TryHackMe SOC LEVEL 1</a>|
+| Security Operations and Monitoring            | <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1CYOMEOEYF.png">TryHackMe Cyber Defense</a>|
+| Malware Analysis and Reverse Engineering      | <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1CYOMEOEYF.png">TryHackMe Cyber Defense</a>|
 
 ## Tools
 
