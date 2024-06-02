@@ -14,11 +14,12 @@
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Splunk projects                               | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Network Security and Traffic Analysis         |TryHackMe SOC LEVEL 1 <a href="https://google.com">Detection Lab</a>|
+| Threat and Vulnerability Management           | TryHackMe Cyber Defense|
+| Digital Forensics and Incident Response       | TryHackMe SOC LEVEL 1 |
+| Security Operations and Monitoring            | TryHackMe Cyber Defense| 
+| Malware Analysis and Reverse Engineering      | 
+
 
 ## Tools
 
