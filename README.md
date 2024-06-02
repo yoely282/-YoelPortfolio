@@ -13,13 +13,12 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Security and Traffic Analysis         |TryHackMe SOC LEVEL 1 <a href="https://google.com">Detection Lab</a>|
-| Threat and Vulnerability Management           | TryHackMe Cyber Defense|
-| Digital Forensics and Incident Response       | TryHackMe SOC LEVEL 1 |
-| Security Operations and Monitoring            | TryHackMe Cyber Defense| 
-| Malware Analysis and Reverse Engineering      | 
-
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">TryHackMe SOC LEVEL 1 </a>|
+| Network Security and Traffic Analysis         | <a href="https://google.com">TryHackMe SOC LEVEL 1</a>|
+| Threat and Vulnerability Management           | <a href="https://google.com">TryHackMe Cyber Defense</a>|
+| Digital Forensics and Incident Response       | <a href="https://google.com">TryHackMe SOC LEVEL 1</a>|
+| Security Operations and Monitoring            | <a href="https://google.com">TryHackMe Cyber Defense</a>|
+| Malware Analysis and Reverse Engineering      | <a href="https://google.com">TryHackMe Cyber Defense</a>|
 
 ## Tools
 
