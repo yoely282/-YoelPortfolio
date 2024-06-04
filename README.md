@@ -54,5 +54,5 @@
 </div>
 
 ## Projects
-- Detection Lab
+- QUICKLABS PROJECTS  
 - SOC Training  
